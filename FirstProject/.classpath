@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/ant-contrib-1.0b3.jar"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/api_classic_annotations.jar"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/api_classic.jar"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/api_connected.jar"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/asm-all-3.1.jar"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/bcel-5.2.jar"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/commons-cli-1.0.jar"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/commons-httpclient-3.0.jar"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/JCBytecodeProfiler.jar"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/jctasks.jar"/>
+	<classpathentry kind="lib" path="/Applications/Java Card 3 Development Kit/lib/tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
